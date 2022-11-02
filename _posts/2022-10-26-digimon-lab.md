@@ -50,7 +50,8 @@ Overall I did have some struggles where I overcomplicated code as well as trial 
 But this lab was pretty awesome too. I continued to learn how to interpret data from a CSV file and seeing the code eventually work is like a breath of fresh air and made my Python-noob pain worth it. It was quite the relief for the team builder function. I’m wondering if it would ever be possible to include images/sprites of the Digimon in some larger program to add some nice visuals.
 
 Lastly, since Digimon is one of my childhood favorites, getting to see them again in schoolwork is a small but very enjoyable treat for me. 
-(If you’re curious, my favorite Digimon is Omnimon, but more broadly I am a fan of Agumon’s line.This is my favorite Digimon song too: https://youtu.be/bjO_MIVLQcE)
+(If you’re curious, my favorite Digimon is Omnimon. I know that Omnimon is absolutely overpowered but come on. That design is peak)
+(This is my favorite Digimon song too: https://youtu.be/bjO_MIVLQcE)
 
 ![Omnimon](https://github.com/rubberducky3173/site/blob/master/assets/img/omnimon.png?raw=true)
 
