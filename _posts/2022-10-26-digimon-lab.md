@@ -34,11 +34,11 @@ This question was extremely painful to answer because of the amount of checking 
 
 First I checked the memory and attack of every Digimon. If the memory is less than the max specified memory AND the attack is greater than the specified attack (because we want to minimize memory and maximize attack) then we return and append the data.
 
-
+![Team1](https://github.com/rubberducky3173/site/blob/master/assets/img/team1.JPG?raw=true)
 
 Here’s a pile of if statements that goes through our already processed data, the stats list. For making a team of 3 (x, y, z) we have to check if a group of 3 found matches up with the input requirements. Also, because data points are unique, we have to use the =! operator to make sure this group doesn’t have duplicates.
 
-
+![Team3](https://github.com/rubberducky3173/site/blob/master/assets/img/team3.JPG?raw=true)
 
 If we have a match, print the team of 3 (names, memory, and attack)
 
