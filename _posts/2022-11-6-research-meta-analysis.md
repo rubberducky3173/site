@@ -5,6 +5,7 @@ Given that lots of our research is fake because of publish or perish, what shoul
 
 Study used:
 https://www.tandfonline.com/doi/full/10.1080/08927936.2022.2109290
+
 Found the study on:
 https://www.msn.com/en-us/health/healthy-lifestyle/study-finds-a-link-between-being-a-cat-person-and-improved-mental-health/ar-AA13NJzC
 
