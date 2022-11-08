@@ -6,11 +6,14 @@ Given that lots of our research is fake because of publish or perish, what shoul
 Study used:
 https://www.tandfonline.com/doi/full/10.1080/08927936.2022.2109290
 Found the study on:
-Study finds a link between being a cat person and improved mental health (msn.com)
+https://www.msn.com/en-us/health/healthy-lifestyle/study-finds-a-link-between-being-a-cat-person-and-improved-mental-health/ar-AA13NJzC
+
+Pay attention to how the article right above is assuming the research is legitimate. It may be and it may not be because of the unique contexts of this study.
+
 
 **What are the null and alternative hypotheses?**
-Null: There is no link between cats and improved mental health of higher-education institutions. (They shouldn’t be used more.)
 
+Null: There is no link between cats and improved mental health of higher-education institutions. (They shouldn’t be used more.)
 Alternative: There is a link between cats and improved mental health of higher-education institutions. (They should be used more.)
 
 **Who is collecting and analyzing this data?**
@@ -26,11 +29,19 @@ The data collected here includes the experiment participants’ demographics (mo
 
 **What data is being recorded? What data might be left out?**
 Some of the data being recorded are the participants’ demographics, which were collected before the experiment: Age, gender, diploma, family situation, partner, children, nationality. Some of the other data were collected during the experiment, which include: Stress level, emotionality level, responsiveness of the animal presence, and risks of on-campus animals. Some things to note are how the researchers did not choose to list different majors that may vary in workload given that more work = more stress, as well as excluding those who attended online programs because of the necessity of being in-person (because of COVID-19). That takes a huge chunk out of the population studied. They also only studied Flemish higher-education institutions which excludes the rest of the world that may perceive things differently. The researchers called for more experiments in non-European and non-COVID-19 contexts. Finally, on demographics, there was a note at the bottom: “As 31.5% of respondents did not fill out the survey completely and respondents were allowed to leave questions blank, the sample size varies depending on the measure.”
+![Table1](https://github.com/rubberducky3173/site/blob/master/assets/img/table%201.JPG?raw=true)
+
 
 **What evidence did they present to back up their conclusions?**
 They often referenced previous studies where cats were shown to demonstrate similar traits to dogs in terms of AAIs (e.g. attentiveness). There was also data about responsiveness to cat and dog initiatives and risk assessment for having these animals on campus. Some of the data collected:
-![Table2](https://github.com/rubberducky3173/site/blob/master/assets/img/table%201.JPG?raw=true)
-Note!: The study did not include emotionality in results. That makes me wonder why that was collected as well. 
+![Table2](https://github.com/rubberducky3173/site/blob/master/assets/img/table%202.JPG?raw=true)
+Note!: The study did not include emotionality in results. That makes me wonder why that was collected as well. Plus, the researchers mentioned that cats also have a bad reputation for not being as friendly or behaved as dogs, but also are a point of interest for a special context given that dogs are dominating the AAI sphere.
+
+Here are the correlations:
+![Table3](https://github.com/rubberducky3173/site/blob/master/assets/img/table%203.JPG?raw=true)
+
+These were the predictor results:
+![Table4](https://github.com/rubberducky3173/site/blob/master/assets/img/table%204.JPG?raw=true)
 
 
 **How was this study funded?**
