@@ -65,7 +65,7 @@ All of a sudden Luke hears Obi-Wan Kenobi, telling him to “use the Force.” L
 
 **The Numbers**
 
-![Probability](https://github.com/rubberducky3173/site/blob/master/assets/img/probability.PNG?raw=true)
+![probability](https://github.com/rubberducky3173/site/blob/master/assets/img/probability.PNG?raw=true)
 
 With our percentages all written down, all I needed to do was multiply them together. I had written them as out of 1, so 90% was 0.9, for example. With that format I got the approximate chance, but multiplied it by 100 to get as percent instead of out of 1. Therefore… the chance of Luke destroying the Death Star was…
 
