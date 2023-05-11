@@ -27,7 +27,7 @@ Then after Leia gives the plans to R2-D2, the droid decides to go through a forb
 The droids escape from the ship, but had a 50% chance of surviving because the Star Destroyer took interest but didn’t detect any life forms (yes, droids are in it and are not living organisms) and decided not to absolutely blast that escape pod to pieces. Unfortunately, Leia is captured by Darth Vader.
 Safely landing on Tatooine, R2-D2 and C-3PO go their separate ways. They both are captured by trading Jawas, which is a pretty good survival rate because they have value. 90%.
 
-![droids](https://github.com/rubberducky3173/site/blob/master/assets/img/droids.PNG?raw=true)
+![droids](https://github.com/rubberducky3173/site/blob/master/assets/img/droids.jpg?raw=true)
 
 When Luke and his family finally make an appearance, R2-D2 is not chosen to come with Luke until one of the other traded droids breaks. R2-D2 and C-3PO can’t be separated. 40% chance.
 
@@ -43,7 +43,7 @@ In the bar, things are quite unsafe and even killing someone only draws attentio
 They meet with Han Solo and his Wookiee friend Chewbacca who agree to be their ride with the Millenium Falcon. Stormtroopers enter the bar, but Luke and Obi-Wan get out quite fast with a survival rate of 90%. As Han Solo is about to leave, a bounty hunter named Greedo tries to kill him for a huge amount on Han Solo’s head. But Solo secretly pulls a gun and kills Greedo with a closer call of 50%. R2-D2 and C-3PO have a 50% chance of getting out when hiding because the Stormtroopers can go one way or the other. As the group is about to leave, Stormtroopers find them and begin shooting but actually have a 0% hit rate so luckily the group gets away.
 However, when planning to hyperjump to Alderaan, some Imperial ships chase after them but they get away with a 50% chance.
 
-![hansolo](https://github.com/rubberducky3173/site/blob/master/assets/img/hansolo.PNG?raw=true)
+![hansolo](https://github.com/rubberducky3173/site/blob/master/assets/img/hansolo.jpg?raw=true)
 
 What they don’t know is that the Death Star just blew up Alderaan to showcase the Death Star’s power in front of Leia- but Obi-Wan realizes that something terrible has just happened.
 
@@ -52,7 +52,7 @@ What they don’t know is that the Death Star just blew up Alderaan to showcase 
 Han Solo and Chewie leave hyperjump but need to navigate through the asteroid field- which is Alderaan now- with a 60% chance of survival. They suddenly get pulled into the Death Star for investigation.
 The group hides in the floor with an 80% chance of survival because Han Solo used the floor to smuggle things. They ambush the Stormtroopers with a beautiful 97% success rate and disguise themselves in order to turn off the tractor beam. R2-D2, while looking for where to shut off the tractor beam, discovers Princess Leia imprisoned here. Obi-Wan leaves to turn off the tractor beam and Han Solo and Luke go downstairs to get her, posing as Stormtroopers doing a prisoner transfer but it’s pretty suspicious. 25%. They suddenly attack the Imperial officials guarding the prison with a hit rate of 3/61 shots. This comes out to a 95% chance of survival. Luke and Han rescue Leia ("Aren't you a little short for a Stormtrooper?") but encounter more Stormtroopers with a hit rate of 3/116 shots, which means their survival rate is 97%. They escape through the garbage chute.
 
-![lukeandleia](https://github.com/rubberducky3173/site/blob/master/assets/img/lukeandleia.PNG?raw=true)
+![lukeandleia](https://github.com/rubberducky3173/site/blob/master/assets/img/lukeandleia.jpg?raw=true)
 
 **Garbage Walls and the Garbage Monster**
 
@@ -63,7 +63,7 @@ Disgusting. But who cares about that when you’re getting pulled under by the m
 Han Solo chases and shoots at a bunch of Stormtroopers but realizes they have backup and therefore goes the other way.
 Meanwhile, Luke almost falls off a bridge but survives so he has a 50% chance. He tries to swing across a gap with Leia while Stormtroopers shoot at him. There were 4 hits and 147 shots fired, so Luke and Leia had a 97% chance of living. They meet up with Han Solo and try to get into the Millenium Falcon. The Stormtroopers guarding the ship go to investigate a lightsaber fight between Obi-Wan and his apprentice, Darth Vader himself! However Obi-Wan lets himself be killed and tells Luke to run as a voice from the Force even though he’s devastated. 
 
-![fight](https://github.com/rubberducky3173/site/blob/master/assets/img/kenobivsvader.PNG?raw=true)
+![fight](https://github.com/rubberducky3173/site/blob/master/assets/img/kenobivsvader.jpg?raw=true)
 
 The group escapes while Stormtroopers fire at them. Hit rate was 4/110 and the rate was 96%. They’re not quite out of this yet! A few TIE fighters follow the group as they’re trying to get out. TIE fighters shoot two shots at a time, so I had to account for those. In a quick dogfight with Luke and Han Solo at the turrets, the Millenium Falcon escapes with 8 hits and 187 shots fired. That is about a 96% chance of survival. However, they were followed by the Death Star to the Rebel base on the 4th moon of Yavin. Whoops.
 
