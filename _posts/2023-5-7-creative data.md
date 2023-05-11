@@ -4,7 +4,7 @@ So here comes the question:
 
 **In Star Wars: A New Hope, what was the probability of Luke destroying Death Star I successfully?**
 
-![poster](https://github.com/rubberducky3173/site/blob/master/assets/img/poster.PNG?raw=true)
+![poster](https://github.com/rubberducky3173/site/blob/master/assets/img/poster.jpg?raw=true)
 
 It seemed pretty easy for him, right? But you've probably forgotten how many close calls with death this farm boy has had. But alas, boom goes the machine that costs several octillion dollars to run a day.
 
