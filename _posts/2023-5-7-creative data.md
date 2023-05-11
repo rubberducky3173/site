@@ -52,7 +52,7 @@ What they don’t know is that the Death Star just blew up Alderaan to showcase 
 Han Solo and Chewie leave hyperjump but need to navigate through the asteroid field- which is Alderaan now- with a 60% chance of survival. They suddenly get pulled into the Death Star for investigation.
 The group hides in the floor with an 80% chance of survival because Han Solo used the floor to smuggle things. They ambush the Stormtroopers with a beautiful 97% success rate and disguise themselves in order to turn off the tractor beam. R2-D2, while looking for where to shut off the tractor beam, discovers Princess Leia imprisoned here. Obi-Wan leaves to turn off the tractor beam and Han Solo and Luke go downstairs to get her, posing as Stormtroopers doing a prisoner transfer but it’s pretty suspicious. 25%. They suddenly attack the Imperial officials guarding the prison with a hit rate of 3/61 shots. This comes out to a 95% chance of survival. Luke and Han rescue Leia ("Aren't you a little short for a Stormtrooper?") but encounter more Stormtroopers with a hit rate of 3/116 shots, which means their survival rate is 97%. They escape through the garbage chute.
 
-![lukeandleia](https://github.com/rubberducky3173/site/blob/master/assets/img/lukeandleia.jpg?raw=true)
+![trooper](https://github.com/rubberducky3173/site/blob/master/assets/img/trooper.jpg?raw=true)
 
 **Garbage Walls and the Garbage Monster**
 
@@ -61,7 +61,11 @@ Disgusting. But who cares about that when you’re getting pulled under by the m
 **Leaving the Death Star**
 
 Han Solo chases and shoots at a bunch of Stormtroopers but realizes they have backup and therefore goes the other way.
-Meanwhile, Luke almost falls off a bridge but survives so he has a 50% chance. He tries to swing across a gap with Leia while Stormtroopers shoot at him. There were 4 hits and 147 shots fired, so Luke and Leia had a 97% chance of living. They meet up with Han Solo and try to get into the Millenium Falcon. The Stormtroopers guarding the ship go to investigate a lightsaber fight between Obi-Wan and his apprentice, Darth Vader himself! However Obi-Wan lets himself be killed and tells Luke to run as a voice from the Force even though he’s devastated. 
+Meanwhile, Luke almost falls off a bridge but survives so he has a 50% chance. He tries to swing across a gap with Leia while Stormtroopers shoot at him. 
+
+![lukeandleia](https://github.com/rubberducky3173/site/blob/master/assets/img/lukeandleia.jpg?raw=true)
+
+There were 4 hits and 147 shots fired, so Luke and Leia had a 97% chance of living. They meet up with Han Solo and try to get into the Millenium Falcon. The Stormtroopers guarding the ship go to investigate a lightsaber fight between Obi-Wan and his apprentice, Darth Vader himself! However Obi-Wan lets himself be killed and tells Luke to run as a voice from the Force even though he’s devastated. 
 
 ![fight](https://github.com/rubberducky3173/site/blob/master/assets/img/kenobivsvader.jpg?raw=true)
 
