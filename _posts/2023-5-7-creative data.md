@@ -84,6 +84,9 @@ While everyone was making their attack runs, one of the Red Leaders, Garven Drei
 Darth Vader and his TIE fighters were picking everyone off one by one and was about to shoot Luke down until Han Solo miraculously returned in the Millenium Falcon to shoot down the TIE Fighters and damage Vader. Whether he came back or not was probably 50%.
 All of a sudden Luke hears Obi-Wan Kenobi, telling him to “use the Force.” Luke realizes that it’ll help, so removes his computer but assures everyone he’s fine to the confusion of the Rebels. Luke activates his aimbot cheats with the Force and fires two Proton torpedoes that make a wonderful direct hit, destroying the Death Star immediately. Despite having a strong connection with the Force, Luke was a bit of a noob so that was a 90% chance of destroying the Death Star. But he did it!
 
+![explode](https://github.com/rubberducky3173/site/blob/master/assets/img/explode.jpg?raw=true)
+
+
 **The Numbers**
 
 ![probability](https://github.com/rubberducky3173/site/blob/master/assets/img/probability.PNG?raw=true)
