@@ -2,7 +2,7 @@ Welcome back to my blog everyone! The newest assignment required me to do someth
 
 So here comes the question:
 
-**What was the probability of Luke destroying Death Star I successfully?**
+**In Star Wars: A New Hope, what was the probability of Luke destroying Death Star I successfully?**
 
 It seemed pretty easy for him, right? But you've probably forgotten how many close calls with death this farm boy has had. But alas, boom goes the machine that costs several octillion dollars to run a day.
 
