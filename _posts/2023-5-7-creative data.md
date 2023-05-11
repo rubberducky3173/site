@@ -71,9 +71,4 @@ With our percentages all written down, all I needed to do was multiply them toge
 
 That’s kind of small. Congrats Luke! 
 
-
-Proton torpedo | Wookieepedia | Fandom
-
-X-wing starfighter | Wookieepedia | Fandom
-
-DS-1 Death Star Mobile Battle Station | Wookieepedia | Fandom
+As inaccurate or as nonsensical this may seem, this was extremely fun. It’s calculating numbers instead of relying on movie magic- a hard task but very worth it in the end. I hope to do something similar with more Star Wars movies in the future!
