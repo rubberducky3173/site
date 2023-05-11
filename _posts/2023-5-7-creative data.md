@@ -4,6 +4,8 @@ So here comes the question:
 
 **In Star Wars: A New Hope, what was the probability of Luke destroying Death Star I successfully?**
 
+![poster](https://github.com/rubberducky3173/site/blob/master/assets/img/poster.PNG?raw=true)
+
 It seemed pretty easy for him, right? But you've probably forgotten how many close calls with death this farm boy has had. But alas, boom goes the machine that costs several octillion dollars to run a day.
 
 The Rebel Alliance was quite elated for this victory, with Han Solo saying
@@ -24,6 +26,9 @@ Then R2-D2 and C-3PO decide to cross a hallway in the middle of fire, but R2 doe
 Then after Leia gives the plans to R2-D2, the droid decides to go through a forbidden door which C-3PO objects to. That’s a 50-50 because there’s conflicting ideas, but R2 decides to go through and a shot is fired and nearly misses C-3PO, who follows R2 in. That shot lowers the chance to 25%.
 The droids escape from the ship, but had a 50% chance of surviving because the Star Destroyer took interest but didn’t detect any life forms (yes, droids are in it and are not living organisms) and decided not to absolutely blast that escape pod to pieces. Unfortunately, Leia is captured by Darth Vader.
 Safely landing on Tatooine, R2-D2 and C-3PO go their separate ways. They both are captured by trading Jawas, which is a pretty good survival rate because they have value. 90%.
+
+![droids](https://github.com/rubberducky3173/site/blob/master/assets/img/droids.PNG?raw=true)
+
 When Luke and his family finally make an appearance, R2-D2 is not chosen to come with Luke until one of the other traded droids breaks. R2-D2 and C-3PO can’t be separated. 40% chance.
 
 **On Tatooine**
@@ -37,12 +42,17 @@ Luke, Obi-Wan, and the droids go to a bar to look for a ship to take them to Ald
 In the bar, things are quite unsafe and even killing someone only draws attention for a few seconds then everyone goes back to minding their own business. Luke gets into a small altercation but is saved by Obi-Wan and his lightsaber. 85%.
 They meet with Han Solo and his Wookiee friend Chewbacca who agree to be their ride with the Millenium Falcon. Stormtroopers enter the bar, but Luke and Obi-Wan get out quite fast with a survival rate of 90%. As Han Solo is about to leave, a bounty hunter named Greedo tries to kill him for a huge amount on Han Solo’s head. But Solo secretly pulls a gun and kills Greedo with a closer call of 50%. R2-D2 and C-3PO have a 50% chance of getting out when hiding because the Stormtroopers can go one way or the other. As the group is about to leave, Stormtroopers find them and begin shooting but actually have a 0% hit rate so luckily the group gets away.
 However, when planning to hyperjump to Alderaan, some Imperial ships chase after them but they get away with a 50% chance.
+
+![hansolo](https://github.com/rubberducky3173/site/blob/master/assets/img/hansolo.PNG?raw=true)
+
 What they don’t know is that the Death Star just blew up Alderaan to showcase the Death Star’s power in front of Leia- but Obi-Wan realizes that something terrible has just happened.
 
 **Alderaan in Pieces and the Death Star**
 
 Han Solo and Chewie leave hyperjump but need to navigate through the asteroid field- which is Alderaan now- with a 60% chance of survival. They suddenly get pulled into the Death Star for investigation.
 The group hides in the floor with an 80% chance of survival because Han Solo used the floor to smuggle things. They ambush the Stormtroopers with a beautiful 97% success rate and disguise themselves in order to turn off the tractor beam. R2-D2, while looking for where to shut off the tractor beam, discovers Princess Leia imprisoned here. Obi-Wan leaves to turn off the tractor beam and Han Solo and Luke go downstairs to get her, posing as Stormtroopers doing a prisoner transfer but it’s pretty suspicious. 25%. They suddenly attack the Imperial officials guarding the prison with a hit rate of 3/61 shots. This comes out to a 95% chance of survival. Luke and Han rescue Leia ("Aren't you a little short for a Stormtrooper?") but encounter more Stormtroopers with a hit rate of 3/116 shots, which means their survival rate is 97%. They escape through the garbage chute.
+
+![lukeandleia](https://github.com/rubberducky3173/site/blob/master/assets/img/lukeandleia.PNG?raw=true)
 
 **Garbage Walls and the Garbage Monster**
 
@@ -51,12 +61,19 @@ Disgusting. But who cares about that when you’re getting pulled under by the m
 **Leaving the Death Star**
 
 Han Solo chases and shoots at a bunch of Stormtroopers but realizes they have backup and therefore goes the other way.
-Meanwhile, Luke almost falls off a bridge but survives so he has a 50% chance. He tries to swing across a gap with Leia while Stormtroopers shoot at him. There were 4 hits and 147 shots fired, so Luke and Leia had a 97% chance of living. They meet up with Han Solo and try to get into the Millenium Falcon. The Stormtroopers guarding the ship go to investigate a lightsaber fight between Obi-Wan and his apprentice, Darth Vader himself! However Obi-Wan lets himself be killed and tells Luke to run as a voice from the Force even though he’s devastated. The group escapes while Stormtroopers fire at them. Hit rate was 4/110 and the rate was 96%. They’re not quite out of this yet! A few TIE fighters follow the group as they’re trying to get out. TIE fighters shoot two shots at a time, so I had to account for those. In a quick dogfight with Luke and Han Solo at the turrets, the Millenium Falcon escapes with 8 hits and 187 shots fired. That is about a 96% chance of survival. However, they were followed by the Death Star to the Rebel base on the 4th moon of Yavin. Whoops.
+Meanwhile, Luke almost falls off a bridge but survives so he has a 50% chance. He tries to swing across a gap with Leia while Stormtroopers shoot at him. There were 4 hits and 147 shots fired, so Luke and Leia had a 97% chance of living. They meet up with Han Solo and try to get into the Millenium Falcon. The Stormtroopers guarding the ship go to investigate a lightsaber fight between Obi-Wan and his apprentice, Darth Vader himself! However Obi-Wan lets himself be killed and tells Luke to run as a voice from the Force even though he’s devastated. 
+
+![fight](https://github.com/rubberducky3173/site/blob/master/assets/img/kenobivsvader.PNG?raw=true)
+
+The group escapes while Stormtroopers fire at them. Hit rate was 4/110 and the rate was 96%. They’re not quite out of this yet! A few TIE fighters follow the group as they’re trying to get out. TIE fighters shoot two shots at a time, so I had to account for those. In a quick dogfight with Luke and Han Solo at the turrets, the Millenium Falcon escapes with 8 hits and 187 shots fired. That is about a 96% chance of survival. However, they were followed by the Death Star to the Rebel base on the 4th moon of Yavin. Whoops.
 
 
 **Battle of Yavin**
 
 Han Solo takes his money and leaves (bye), while Luke becomes a T-65B X-wing pilot. There’s only so much time left until the Death Star gets in range to destroy Yavin 4. Finally getting a look at the plans of the Death Star, the Rebel Alliance’s chances of victory are slim as the Death Star’s weakness is the reactor in the middle. It’s exposed by a thermal exhaust port that’s only 2 meters wide. Moreover, it’s in the meridian trench of the station. By the way, the Death Star is 160 km in diameter so anything hitting the reactor needs to travel 80 km down while surviving an onslaught.
+
+![yavin](https://github.com/rubberducky3173/site/blob/master/assets/img/yavin.PNG?raw=true)
+
 Luke and the other pilots go on a crazy adventure to destroy the Death Star as a final effort. Turbolasers on the Death Star, TIE fighters, X-wings, and Y-wings fire a generous amount of approximately 515 shots and hit 37. However, Darth Vader is a part of this and has quite some good aim in comparison to everyone else. That’s still about a 93% percent chance of survival- a bit lower, but a good chance of surviving. 
 Luke gets hit sometimes but still stays alive. He got a “little cooked” but was okay, so that’s a 95% chance. Later, one of his engines got hit and since X-wings have 4 engines that’s a 75% chance of survival.
 While everyone was making their attack runs, one of the Red Leaders, Garven Dreis, attempted to fire his Proton torpedoes into the exhaust port but missed. Even with the AI in the aim system probably having a 90% success rate, it was a slim chance, but thanks for trying to help anyways. Maybe Dreis is just your average joe of a pilot? 10%. 
