@@ -40,8 +40,11 @@ I next prepared my data to get the “per person” numbers. I concatenated the 
 ![lab5concat](https://github.com/rubberducky3173/site/blob/master/assets/img/lab5concat.PNG?raw=true)
 
 So here I am with the land usage in 1000 hectares per person globally each year from 1961 to 2020. I wanted to get it in hectares and square feet, so I multiplied the numbers by 1000. Then, to get it in square feet, I multiplied by 107639.104 because that’s the square feet equivalent of a hectare. 
+
 ![lab5perperson](https://github.com/rubberducky3173/site/blob/master/assets/img/lab5perperson.PNG?raw=true)
+
 I finally created a chart using years as the x-axis and the products as the y-axis. We can see that the values go down over time because we’re distributing generally the same amount of land for food to a larger number of people. We were at about 155,570 square feet of land per person in 1961, but in 2020, we were at about 65,700 square feet of land per person.
+
 ![perperson](https://github.com/rubberducky3173/site/blob/master/assets/img/perperson.PNG?raw=true)
 
 **Discussion**
