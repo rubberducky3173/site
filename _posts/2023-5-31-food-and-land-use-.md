@@ -1,4 +1,4 @@
-**Lab 5- Land Usage**
+**Lab 5- Food and Land Use**
 
 Welcome back to my blog and to the final lab assignment of the year :( However, I’m 100% this isn’t the last data analysis I’m ever going to do. Plus, this assignment is important to me and probably important to read. So let’s jump right in!
 
